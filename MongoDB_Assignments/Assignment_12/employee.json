@@ -1,0 +1,275 @@
+[
+    {
+        "_id": "e001",
+        "first_name": "Andy",
+        "last_name": "Wong",
+        "phone_number": "(603) 555-6880",
+        "address": "345 South Street",
+        "hire_date": {
+            "$date": "2001-01-15"
+        },
+        "department": {
+            "department_code": "d002",
+            "department_name": "Production"
+        },
+        "equipment": [
+            {
+                "equipment_id": 1,
+                "equipment_name": "Notebook Computer",
+                "cost": 1299.75
+            }
+        ],
+        "training": [
+            1,
+            2,
+            11
+        ]
+    },
+    {
+        "_id": "e002",
+        "first_name": "John",
+        "last_name": "Wilson",
+        "phone_number": "(518) 555-6690",
+        "address": "560 Broadway",
+        "hire_date": {
+            "$date": "2017-03-19"
+        },
+        "department": {
+            "department_code": "d001",
+            "department_name": "Research & Development"
+        },
+        "equipment": [
+            {
+                "equipment_id": 1,
+                "equipment_name": "Notebook Computer",
+                "cost": 1299.75
+            },
+            {
+                "equipment_id": 2,
+                "equipment_name": "Computer Monitor",
+                "cost": 248.39
+            }
+        ],
+        "training": [
+            1,
+            11,
+            3,
+            4
+        ]
+    },
+    {
+        "_id": "e003",
+        "first_name": "Mike",
+        "last_name": "Taylor",
+        "phone_number": "(480) 532-6567",
+        "address": "5212 Saint Croix Ct",
+        "hire_date": {
+            "$date": "2003-11-14"
+        },
+        "equipment": [
+            {
+                "equipment_id": 1,
+                "equipment_name": "Notebook Computer",
+                "cost": 1299.75
+            }
+        ],
+        "training": [
+            1
+        ]
+    },
+    {
+        "_id": "e009",
+        "first_name": "Rafael",
+        "last_name": "Gonzalez",
+        "phone_number": "(345) 555-6782",
+        "address": "789 Sunset Drive",
+        "hire_date": {
+            "$date": "2015-11-30"
+        },
+        "department": {
+            "department_code": "d001",
+            "department_name": "Research & Development"
+        },
+        "equipment": [
+            {
+                "equipment_id": 1,
+                "equipment_name": "Notebook Computer",
+                "cost": 1299.75
+            },
+            {
+                "equipment_id": 5,
+                "equipment_name": "Projector",
+                "cost": 1487.63
+            },
+            {
+                "equipment_id": 7,
+                "equipment_name": "Internet Modem",
+                "cost": 88.67
+            }
+        ],
+        "training": [
+            10
+        ]
+    },
+    {
+        "_id": "e004",
+        "first_name": "Vivek",
+        "last_name": "Pandey",
+        "phone_number": "(603) 555-4420",
+        "address": "15 Mineral Drive",
+        "hire_date": {
+            "$date": "2003-11-15"
+        },
+        "department": {
+            "department_code": "d003",
+            "department_name": "IT Support"
+        },
+        "equipment": [
+            {
+                "equipment_id": 1,
+                "equipment_name": "Notebook Computer",
+                "cost": 1299.75
+            },
+            {
+                "equipment_id": 2,
+                "equipment_name": "Computer Monitor",
+                "cost": 248.39
+            },
+            {
+                "equipment_id": 3,
+                "equipment_name": "Headsets",
+                "cost": 57.49
+            }
+        ],
+        "training": [
+            1,
+            5,
+            6
+        ]
+    },
+    {
+        "_id": "e006",
+        "first_name": "Kathy",
+        "last_name": "Cooper",
+        "phone_number": "(212) 555-9630",
+        "address": "15 Hatter Drive",
+        "hire_date": {
+            "$date": "2011-11-18"
+        },
+        "department": {
+            "department_code": "d008",
+            "department_name": "Human Resource Management"
+        },
+        "equipment": [
+            {
+                "equipment_id": 1,
+                "equipment_name": "Notebook Computer",
+                "cost": 1299.75
+            },
+            {
+                "equipment_id": 2,
+                "equipment_name": "Computer Monitor",
+                "cost": 248.39
+            },
+            {
+                "equipment_id": 3,
+                "equipment_name": "Headsets",
+                "cost": 57.49
+            }
+        ],
+        "training": [
+            9
+        ]
+    },
+    {
+        "_id": "e007",
+        "first_name": "Tom",
+        "last_name": "Harper",
+        "phone_number": "(212) 555-7755",
+        "address": "64 Highland Street",
+        "hire_date": {
+            "$date": "2010-04-11"
+        },
+        "department": {
+            "department_code": "d009",
+            "department_name": "Accounting and Finance"
+        },
+        "equipment": [
+            {
+                "equipment_id": 1,
+                "equipment_name": "Notebook Computer",
+                "cost": 1299.75
+            },
+            {
+                "equipment_id": 2,
+                "equipment_name": "Computer Monitor",
+                "cost": 248.39
+            }
+        ],
+        "training": [
+            1,
+            7
+        ]
+    },
+    {
+        "_id": "e005",
+        "first_name": "Nola",
+        "last_name": "Davis",
+        "phone_number": "(478) 555-8822",
+        "address": "15 Long Ave",
+        "hire_date": {
+            "$date": "2016-03-23"
+        },
+        "department": {
+            "department_code": "d007",
+            "department_name": "Sales and Marketing"
+        },
+        "equipment": [
+            {
+                "equipment_id": 3,
+                "equipment_name": "Headsets",
+                "cost": 57.49
+            },
+            {
+                "equipment_id": 4,
+                "equipment_name": "Multi-Function Printer",
+                "cost": 301.25
+            }
+        ],
+        "training": [
+            1,
+            7,
+            8
+        ]
+    },
+    {
+        "_id": "e008",
+        "first_name": "Mei",
+        "last_name": "Zhang",
+        "phone_number": "(678) 555-9012",
+        "address": "456 1st Lane",
+        "hire_date": {
+            "$date": "2017-07-14"
+        },
+        "department": {
+            "department_code": "d006",
+            "department_name": "Purchasing"
+        },
+        "equipment": [
+            {
+                "equipment_id": 6,
+                "equipment_name": "Server",
+                "cost": 5295.42
+            },
+            {
+                "equipment_id": 8,
+                "equipment_name": "Cell Phone",
+                "cost": 804.21
+            }
+        ],
+        "training": [
+            11,
+            4
+        ]
+    }
+]

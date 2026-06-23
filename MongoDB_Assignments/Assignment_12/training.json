@@ -1,0 +1,145 @@
+[
+    {
+        "_id": 1,
+        "name": "Code of Conduct Training",
+        "trainers": [
+            {
+                "trainer_code": "t001",
+                "first_name": "Michael",
+                "last_name": "Smith"
+            }
+        ]
+    },
+    {
+        "_id": 2,
+        "name": "Safety Training",
+        "trainers": [
+            {
+                "trainer_code": "t002",
+                "first_name": "Maria",
+                "last_name": "Garcia"
+            }
+        ]
+    },
+    {
+        "_id": 3,
+        "name": "Intro to Python",
+        "trainers": [
+            {
+                "trainer_code": "t003",
+                "first_name": "John"
+            },
+            {
+                "trainer_code": "t004",
+                "first_name": "Paul",
+                "last_name": "Deitel"
+            }
+        ]
+    },
+    {
+        "_id": 4,
+        "name": "Machine Learning",
+        "trainers": [
+            {
+                "trainer_code": "t005",
+                "first_name": "Mike",
+                "last_name": "Taylor"
+            },
+            {
+                "trainer_code": "t006",
+                "first_name": "Avinash",
+                "last_name": "Navlani"
+            }
+        ]
+    },
+    {
+        "_id": 5,
+        "name": "Microsoft Certifications",
+        "trainers": [
+            {
+                "trainer_code": "t007",
+                "first_name": "Robert",
+                "last_name": "Smith"
+            }
+        ]
+    },
+    {
+        "_id": 6,
+        "name": "Security and Privacy",
+        "trainers": [
+            {
+                "trainer_code": "t008",
+                "first_name": "Maria",
+                "last_name": "Rodriguez"
+            }
+        ]
+    },
+    {
+        "_id": 7,
+        "name": "Product Knowledge",
+        "trainers": [
+            {
+                "trainer_code": "t009",
+                "first_name": "Mike",
+                "last_name": "Donlon"
+            }
+        ]
+    },
+    {
+        "_id": 8,
+        "name": "Sales Skills",
+        "trainers": [
+            {
+                "trainer_code": "t010",
+                "first_name": "Kathy",
+                "last_name": "Corby"
+            }
+        ]
+    },
+    {
+        "_id": 9,
+        "name": "Employee Relations",
+        "trainers": [
+            {
+                "trainer_code": "t011",
+                "first_name": "Mary",
+                "last_name": "Garcia"
+            },
+            {
+                "trainer_code": "t012",
+                "first_name": "Vanessa"
+            }
+        ]
+    },
+    {
+        "_id": 10,
+        "name": "Travel and Expense Management",
+        "trainers": [
+            {
+                "trainer_code": "t013",
+                "first_name": "Jordan"
+            },
+            {
+                "trainer_code": "t014",
+                "first_name": "Maria",
+                "last_name": "Hernandez"
+            }
+        ]
+    },
+    {
+        "_id": 11,
+        "name": "COVID-19 Awareness and Protection Training",
+        "trainers": [
+            {
+                "trainer_code": "t015",
+                "first_name": "James",
+                "last_name": "Smith"
+            },
+            {
+                "trainer_code": "t016",
+                "first_name": "Johnny",
+                "last_name": "Khor"
+            }
+        ]
+    }
+]
