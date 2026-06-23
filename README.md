@@ -13,6 +13,7 @@ allowing skills to compound across each assignment.
 ---
 
 ## 📁 Repository Structure
+```
 SQL-NoSQL-Skill-Building/
 
 │
@@ -58,6 +59,7 @@ SQL-NoSQL-Skill-Building/
 │
 
 └── README.md
+```
 
 ---
 
