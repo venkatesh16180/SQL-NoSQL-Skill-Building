@@ -1,0 +1,60 @@
+[
+    {
+        "_id": "e001",
+        "first_name": "Andy",
+        "last_name": "Wong",
+        "phone_number": "(603) 555-6880",
+        "address": "345 South Street",
+        "hire_date": "2001-01-15",
+        "department": {
+            "department_code": "d002",
+            "name": "Production"
+        },
+        "equipment": [
+            {
+                "equipment_id": 1,
+                "equipment": "Notebook Computer",
+                "cost": 1299.75
+            }
+        ]
+    },
+    {
+        "_id": "e002",
+        "first_name": "John",
+        "last_name": "Wilson",
+        "phone_number": "(518) 555-6690",
+        "address": "560 Broadway",
+        "hire_date": "2017-03-19",
+        "department": {
+            "department_code": "d001",
+            "name": "Research & Development"
+        },
+        "equipment": [
+            {
+                "equipment_id": 1,
+                "equipment": "Notebook Computer",
+                "cost": 1299.75
+            },
+            {
+                "equipment_id": 2,
+                "equipment": "Computer Monitor",
+                "cost": 248.39
+            }
+        ]
+    },
+    {
+        "_id": "e003",
+        "first_name": "Mike",
+        "last_name": "Taylor",
+        "phone_number": "(480) 532-6567",
+        "address": "5212 Saint Croix Ct",
+        "hire_date": "2003-11-14",
+        "equipment": [
+            {
+                "equipment_id": 1,
+                "equipment": "Notebook Computer",
+                "cost": 1299.75
+            }
+        ]
+    }
+]
