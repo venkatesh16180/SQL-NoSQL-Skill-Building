@@ -17,47 +17,26 @@ allowing skills to compound across each assignment.
 SQL-NoSQL-Skill-Building/
 
 │
-
 ├── SQL_Assignments/          # Assignments 1–9: Modeling & SQL
-
 │   ├── Assignment_1/         # Data requirements & ERD basics
-
 │   ├── Assignment_2/         # Logical data modeling
-
 │   ├── Assignment_3/         # Conceptual data model (CDM)
-
 │   ├── Assignment_4/         # Physical data model + DDL
-
 │   ├── Assignment_5/         # Basic SQL queries
-
 │   ├── Assignment_6/         # Intermediate queries
-
 │   ├── Assignment_7/         # Advanced joins & subqueries
-
 │   ├── Assignment_8/         # Aggregations & grouping
-
 │   ├── Assignment_9/         # Complex multi-table operations
-
 │   └── README.md
-
 │
-
 ├── MongoDB_Assignments/      # Assignments 10–14: MongoDB
-
 │   ├── Assignment_10/        # Document data design & JSON
-
 │   ├── Assignment_11/        # CUD operations
-
 │   ├── Assignment_12/        # Find queries
-
 │   ├── Assignment_13/        # Aggregation pipelines
-
 │   ├── Assignment_14/        # MongoDB management
-
 │   └── README.md
-
 │
-
 └── README.md
 ```
 
